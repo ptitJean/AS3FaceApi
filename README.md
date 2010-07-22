@@ -1,6 +1,6 @@
 AS3 port of the face.com API
 
-Need as3crypto.swc & Crypto.swc( it will be soon go on one of them ).
+Need as3crypto.swc if you want use OAuth( for Twitter auth ).
 
 
 ### Usage ###
